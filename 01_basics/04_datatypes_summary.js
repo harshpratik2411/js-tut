@@ -35,3 +35,4 @@
     // Function  =>  function
     // Object  =>  object
 
+//   stack pprimitive) heap(non primitive)

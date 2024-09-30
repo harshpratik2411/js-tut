@@ -33,6 +33,6 @@ console.log(JsUser.greeting());
 console.log(JsUser.greetingTwo());
 
 // we can access js object by dot(.) or we can accesss it by square  bracket 
-   
+          
 
-
+    

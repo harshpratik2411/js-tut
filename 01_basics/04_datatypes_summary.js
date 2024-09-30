@@ -1,7 +1,7 @@
 // DATA TYPES
 // 
 //   primitive data type 
-//    there are sven types of primitive data 
+//    there are seven types of primitive data 
 //     string,number,boolean,null,undefined,symbol,bigInt
 // 
 //   Refrence type or non primitive data type 
@@ -35,4 +35,4 @@
     // Function  =>  function
     // Object  =>  object
 
-//   stack pprimitive) heap(non primitive)
+//   stack primitive) heap(non primitive)

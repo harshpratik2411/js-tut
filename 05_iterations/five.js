@@ -10,7 +10,7 @@
 
 // coding.forEach( (items) => {
 //     console.log(items);
-          // forEach also has the access of the  index,arr.
+          // forEach also has the access of the  index,arr.\
 // }) 
 // this method uses arrow function. 
 // both the output will be same 
@@ -45,4 +45,4 @@ const myCoding = [
   // console.log(item.languagefilename);
    console.log(item.languageName);
    
- })
+ }) 

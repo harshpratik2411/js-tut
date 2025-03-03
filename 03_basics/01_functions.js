@@ -54,4 +54,4 @@
             return getArray[2]
             
           }
-          console.log(returnSecondValue(myNewArray))
+          console.log(returnSecondValue(myNewArray)) 

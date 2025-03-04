@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: #212121;">
+    
+</body> 
+<script>
+   const element = document.createElement('div')
+   console.log(element); 
+   element.className= 'main'
+   element.id = (Math.random() *10 +1)
+   element.style.backgroundColor = 'green' 
+   element.style.padding = '12px' 
+  // element.innerText='chai aur code' 
+  const addText= document.createTextNode('chai aur code')
+ element.appendChild(addText) 
+  document.body.appendChild(element)
+</script> 
+</html>

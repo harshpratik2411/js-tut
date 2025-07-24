@@ -15,4 +15,11 @@
 //   console.log(typeof) it tells the type of data 
 //
 //
-//
+//   
+     
+     
+   
+
+
+ 
+

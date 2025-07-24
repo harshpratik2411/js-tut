@@ -8,8 +8,8 @@
 //   arrays ,objects, functions 
 //
     const heros =["captain","stark","vison"];
-    
-    let myObj = {
+     
+    let myObj = { 
         name:"harsh",
         age:21
      }
